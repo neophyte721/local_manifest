@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <!-- Remote -->
+        <remote name="me" fetch="https://github.com/neophyte-hub" />
+	<remote name="sup" fetch="https://github.com/SuperiorOS-Devices"
+			   revision="thirteen" clone-depth="1"/>
+
+        <!-- Trees -->
+        <project path="device/xiaomi/whyred" name="device_xiaomi_whyred" remote="me" revision="thirteen" clone-depth="1" />
+        <project path="vendor/xiaomi/whyred" name="vendor_xiaomi_whyred" remote="sup" />
+        <project path="kernel/xiaomi/whyred" name="kernel_xiaomi_whyred" remote="sup" />
+	<project path="device/xiaomi/sdm660-common" name="device_xiaomi_whyred-common" remote="sup" />
+	<project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_whyred-common" remote="sup" />
+	<project path="packages/resources/devicesettings" name" android_packages_resources_devicesettings" remote="sup"/>
+	
+</manifest>
