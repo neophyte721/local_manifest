@@ -12,6 +12,6 @@
         <project path="kernel/xiaomi/whyred" name="kernel_xiaomi_whyred" remote="sup" />
 	<project path="device/xiaomi/sdm660-common" name="device_xiaomi_whyred-common" remote="sup" />
 	<project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_whyred-common" remote="sup" />
-	<project path="packages/resources/devicesettings" name" android_packages_resources_devicesettings" remote="sup"/>
+	<project path="packages/resources/devicesettings" name"android_packages_resources_devicesettings" remote="sup" />
 	
 </manifest>
