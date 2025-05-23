@@ -10,7 +10,7 @@
         <!-- Trees -->
         <project path="device/xiaomi/lavender" name="android_device_xiaomi_lavender" remote="me" revision="13.0" clone-depth="1" />
         <project path="vendor/xiaomi/lavender" name="proprietary_vendor_xiaomi_lavender" remote="cr" />
-        <project path="kernel/xiaomi/lavender" name=" nexus_kernel_xiaomi_lavender" remote="nx" revision="13-NKSU" />
+        <project path="kernel/xiaomi/lavender" name="nexus_kernel_xiaomi_lavender" remote="nx" revision="13-NKSU" />
 
 
 </manifest>
