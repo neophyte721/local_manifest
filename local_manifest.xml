@@ -3,7 +3,7 @@
 
         <!-- Remote -->
 	<remote name="azure" fetch="https://gitlab.com/Panchajanya1999" />
-	<remote name="neo" fetch="https://github.com/neophyte721" />
+	<remote name="neo" fetch="https://github.com/neophyteprjkt" />
 		
         <!-- Trees -->
         <project path="device/xiaomi/ginkgo" name="device_xiaomi_ginkgo" remote="neo" revision="nad" clone-depth="1" />
